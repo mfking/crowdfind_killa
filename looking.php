@@ -4,7 +4,8 @@
 	include("header.php");
 ?>
 
-	<h2>We Have It</h2>
+
+	<h2>They are Looking For It</h2>
 
 <?php
 include("footer.php");
