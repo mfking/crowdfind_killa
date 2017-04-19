@@ -30,12 +30,15 @@ nav{
 }
 
 li{
+    font-size: 20px;
     letter-spacing: 0.05em;
     list-style-type: none;
     display: inline-block;
-    width: 7em;
     text-align: center;
-    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 20px;
     color: rgb(75,75,75);
 }
 
